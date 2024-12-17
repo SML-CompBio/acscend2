@@ -94,7 +94,7 @@
 
 ---
 
-### **4. Predictor Class**
+### **4. Stem Cell Class Predictor**
 #### **Initialization**
 1. Load the pre-trained model (`lr_model.joblib`) and store:
    - Model's feature names
